@@ -1,0 +1,6 @@
+{
+    "name":"testor/composer_test"
+    ,"require": {
+        "MrLiu/alipay":"1.1"
+    }
+}
